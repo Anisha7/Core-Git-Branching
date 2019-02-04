@@ -7,7 +7,7 @@ Behind it, he finds a magical world of unicorns living in perfect peice and harm
 
 ## Plot
 
-George woke to the sound of traffic, the sky was gray.
+George, the zookeeper, woke to the sound of traffic, the sky was gray.
 After his typical breakfast of toast and an egge he left for school.
 Normally George would have walked down Bleaker streat, but today there was construction and he decided to take Flanders behind the zoo.
 
@@ -22,8 +22,10 @@ He stuck his head in the door, the color of the foliage was intense greens, brow
 The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
-George met the Unicorn King who granted him magic powers.
-The end.
+George met the Unicorn King at the end of the stone path.
+He was sitting on a giant fern chair. 
+He was happy with George and granted him magic powers.
+The magical George found his way back using magic.
 
 ## Cast
 
