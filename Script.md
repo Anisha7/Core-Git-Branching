@@ -2,12 +2,12 @@
 
 ## Synopsis
 
-George, the zookeeper, discovers a hidden gate behind the zoo.
+George discovers a hidden gate behind the zoo.
 Behind it, he finds a magical world of unicorns living in perfect peice and harmony where he discovers the meaning of imagination.
 
 ## Plot
 
-George, the zookeeper, woke to the sound of traffic, the sky was gray.
+George woke to the sound of traffic, the sky was gray.
 After his typical breakfast of toast and an egge he left for school.
 Normally George would have walked down Bleaker streat, but today there was construction and he decided to take Flanders behind the zoo.
 
@@ -19,13 +19,14 @@ He stopped to listen and noticed a heavy wooden door in the zoo wall was ajar.
 
 Normally George would leave well enough alone, but he was worried that an animal might escape.
 He stuck his head in the door, the color of the foliage was intense greens, browns and chartreuse, he called out for a zoo keeper but got no response.
-The smell of the zoo was intense and alive.
+The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
-George met the Unicorn King at the end of the stone path.
-He was sitting on a giant fern chair. 
-He was happy with George and granted him magic powers.
-The magical George found his way back using magic.
+George met the Unicorn King at the end of the path. 
+He was sitting on a giant fern chair.
+He was happy with George so he granted him magic powers.
+George used the powers to get back and feed all the animals.
+The end.
 
 ## Cast
 
